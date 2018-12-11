@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/yangyang460187/Test%20For%20Github/_apis/build/status/yangyang46.pipelines-dotnet-core)](https://dev.azure.com/yangyang460187/Test%20For%20Github/_build/latest?definitionId=1)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
