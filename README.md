@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/OrganizartionForPipeline/git-cit-test/_apis/build/status/git-cit-test-CI?branchName=master)](https://dev.azure.com/OrganizartionForPipeline/git-cit-test/_build/latest?definitionId=4?branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
